@@ -93,14 +93,14 @@ python run_agent_hybrid.py \
 ```
 This implementation provides a complete solution that meets all the requirements:
 
-    Local execution with Phi-3.5 model via Ollama
+Local execution with Phi-3.5 model via Ollama
 
-    Hybrid RAG + SQL processing
+Hybrid RAG + SQL processing
 
-    DSPy optimization for SQL generation
+DSPy optimization for SQL generation
 
-    LangGraph state machine with repair loops
+LangGraph state machine with repair loops
 
-    Proper citation handling
+Proper citation handling
 
-    Format-aware output generation
+Format-aware output generation
