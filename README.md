@@ -90,8 +90,8 @@ SQL
 python run_agent_hybrid.py \
     --batch sample_questions_hybrid_eval.jsonl \
     --out outputs_hybrid.jsonl
-
-his implementation provides a complete solution that meets all the requirements:
+```
+This implementation provides a complete solution that meets all the requirements:
 
     Local execution with Phi-3.5 model via Ollama
 
